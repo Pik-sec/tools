@@ -5,6 +5,7 @@
 ### 目录扫描
 
 dirsearch 目录扫描工具   https://github.com/maurosoria/dirsearch
+feroxbuster 目录扫描工具  https://github.com/epi052/feroxbuster
 
 ### 指纹识别
 
@@ -27,6 +28,14 @@ URLFinder 	https://github.com/pingc0y/URLFinder
 ### 敏感文件
 
 ihoneyBakFileScan 备份文件泄露扫描 	https://github.com/VMsec/ihoneyBakFileScan_Modify
+
+### CDN绕过
+
+cloudflare绕过查找ip  https://github.com/christophetd/CloudFlair
+
+### 子域名
+
+ksubdomain子域名爆破  https://github.com/knownsec/ksubdomain
 
 ## 0x01 web集成化工具
 
@@ -52,6 +61,12 @@ aliyun-accesskey-Tools   https://github.com/mrknow001/aliyun-accesskey-Tools
 
 ## 漏洞扫描
 
+AutoPWN-Suite漏洞扫描器  https://github.com/GamehunterKaan/AutoPWN-Suite
+
+scan4all漏洞扫描  https://github.com/hktalent/scan4all
+
+POC-bomber 漏洞扫描器 https://github.com/tr0uble-mAker/POC-bomber
+
 EasyPen 综合利用工具 	https://github.com/lijiejie/EasyPen
 
 Exphub 漏洞利用脚本 	https://github.com/zhzyker/exphub
@@ -64,7 +79,13 @@ afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工�
 
 是一款 web 漏洞扫描和验证工具vulmap 	https://github.com/zhzyker/vulmap
 
+### xss漏洞
+
+dalfox xss漏洞扫描器 	https://github.com/hahwul/dalfox
+
 ### 中间件漏洞利用
+
+JNDI注入工具  https://github.com/wyzxxz/jndi_tool
 
 JNDI注入工具   https://github.com/0x727/JNDIExploit
 
@@ -90,7 +111,21 @@ thinkphp_gui_tools 	https://github.com/bewhale/thinkphp_gui_tools
 
 Fastjson-Patrol 	https://github.com/ce-automne/FastjsonPatrol
 
+### cms漏洞
+
+泛微oa综合利用脚本  https://github.com/z1un/weaver_exp
+
+蓝凌OA漏洞利用工具/前台无条件RCE/文件写入  https://github.com/yuanhaiGreg/LandrayExploit
+
+致远OA综合利用工具 	https://github.com/Summer177/seeyon_exp
+
+致远OA综合利用工具GUI-V1.0 	https://github.com/God-Ok/SeeyonExploit-GUI
+
+通达OA综合利用工具 	https://github.com/xinyu2428/TDOA_RCE
+
 ## 0x03 内网信息收集
+
+mscan域内网扫描 https://github.com/ddostest123/mscan
 
 ALLiN 扫描工具 	https://github.com/P1-Team/AlliN
 
@@ -105,6 +140,8 @@ SharpHostInfo 内网主机探测 	https://github.com/shmilylty/SharpHostInfo
 Goblin 钓鱼演练工具 	https://github.com/xiecat/goblin
 
 ### C2框架
+
+c2流量前置  https://github.com/wikiZ/RedGuard/
 
 AtlasC2 C2框架Atlas 	https://github.com/Gr1mmie/AtlasC2
 
@@ -123,6 +160,8 @@ Stowaway 内网穿透 	https://github.com/ph4ntonn/Stowaway
 Dog Tunnel(狗洞)端口映射工具 	https://github.com/vzex/dog-tunnel
 
 frp 端口映射工具 	https://github.com/fatedier/frp
+
+iox 端口转发多层内网 https://github.com/EddieIvan01/iox
 
 ## 0x05 云渗透
 
