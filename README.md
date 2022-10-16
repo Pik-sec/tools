@@ -66,6 +66,8 @@ afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工�
 
 ### 中间件漏洞利用
 
+JNDI注入工具   https://github.com/0x727/JNDIExploit
+
 Spring系列漏洞利用工具 	https://github.com/SummerSec/SpringExploit
 
 SpringBootExploit 	https://github.com/0x727/SpringBootExploit
