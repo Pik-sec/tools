@@ -36,7 +36,11 @@ cloudflare绕过查找ip  https://github.com/christophetd/CloudFlair
 
 ### 子域名
 
+Payer轻量级快速探测子域名  https://github.com/Pik-sec/Payer
+
 ksubdomain子域名爆破  https://github.com/knownsec/ksubdomain
+
+subDomainsBrute子域名爆破  https://github.com/lijiejie/subDomainsBrute
 
 ### 空间测绘
 
@@ -90,9 +94,11 @@ dalfox xss漏洞扫描器 	https://github.com/hahwul/dalfox
 
 ### 中间件漏洞利用
 
-JNDI注入工具  https://github.com/wyzxxz/jndi_tool
+JNDI-Inject-Exploit注入  https://github.com/exp1orer/JNDI-Inject-Exploit
 
-JNDI注入工具   https://github.com/0x727/JNDIExploit
+jndi_tool注入工具  https://github.com/wyzxxz/jndi_tool
+
+JNDIExploit注入工具   https://github.com/0x727/JNDIExploit
 
 Spring系列漏洞利用工具 	https://github.com/SummerSec/SpringExploit
 
@@ -145,6 +151,8 @@ SharpHostInfo 内网主机探测 	https://github.com/shmilylty/SharpHostInfo
 Goblin 钓鱼演练工具 	https://github.com/xiecat/goblin
 
 ### C2框架
+
+manjusakaC2框架 https://github.com/YDHCUI/manjusaka
 
 c2流量前置  https://github.com/wikiZ/RedGuard/
 
