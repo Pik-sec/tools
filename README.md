@@ -217,3 +217,33 @@ https://transfer.sh/
 ## 0x12 在线游戏机
 
 https://www.yikm.net/
+
+## SQL沙箱
+
+### MySQL
+
+http://sqlfiddle.com/#!9
+
+http://rextester.com/l/mysql_online_compiler
+
+https://www.tutorialspoint.com/mysql_terminal_online.php
+
+https://www.jdoodle.com/online-mysql-terminal
+
+### Oracle
+
+http://sqlfiddle.com/#!4
+
+https://livesql.oracle.com/apex/livesql/file/index.html
+
+https://www.tutorialspoint.com/oracle_terminal_online.php
+
+### SQL Server
+
+http://sqlfiddle.com/#!6
+
+https://turbo.net/sql
+
+https://sqlzoo.net/
+
+http://www.headfirstlabs.com/sql_hands_on/
