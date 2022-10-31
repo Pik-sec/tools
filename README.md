@@ -1,6 +1,10 @@
 # 脚本小子天堂~
 
-## 0x00 web信息收集
+## 0x00 信息收集
+
+### 移动端信息收集   
+
+AppInfoScanner   https://github.com/kelvinBen/AppInfoScanner
 
 ### 目录扫描
 
@@ -27,6 +31,10 @@ Naabu 端口扫描 	https://github.com/projectdiscovery/naabu
 URLFinder 	https://github.com/pingc0y/URLFinder
 
 ### 敏感文件
+
+.git文件泄露 https://github.com/lijiejie/GitHack
+
+trufflehog敏感信息检测   https://github.com/trufflesecurity/trufflehog
 
 ihoneyBakFileScan 备份文件泄露扫描 	https://github.com/VMsec/ihoneyBakFileScan_Modify
 
@@ -69,6 +77,11 @@ Webshell管理   https://github.com/BeichenDream/Godzilla
 aliyun-accesskey-Tools   https://github.com/mrknow001/aliyun-accesskey-Tools
 
 ## 漏洞扫描
+
+
+Komo信息收集与漏洞利用 https://github.com/komomon/Komo
+
+afrog快速打点漏洞扫描 https://github.com/zan8in/afrog
 
 AutoPWN-Suite漏洞扫描器  https://github.com/GamehunterKaan/AutoPWN-Suite
 
