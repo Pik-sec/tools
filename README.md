@@ -114,6 +114,8 @@ jndi_tool注入工具  https://github.com/wyzxxz/jndi_tool
 
 JNDIExploit注入工具   https://github.com/0x727/JNDIExploit
 
+Spring漏洞利用工具  https://github.com/reznok/Spring4Shell-POC
+
 Spring系列漏洞利用工具 	https://github.com/SummerSec/SpringExploit
 
 SpringBootExploit 	https://github.com/0x727/SpringBootExploit
